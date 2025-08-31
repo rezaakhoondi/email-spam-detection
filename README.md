@@ -41,8 +41,10 @@ We use the **Spam SMS Collection Dataset**, which contains 5,574 labeled message
    git clone https://github.com/your-username/email-spam-detection.git
    cd email-spam-detection
 2. Install dependencies:
+    ```bash
     pip install -r requirements.txt
 3. Run the Jupyter Notebook:
+    ```bash
     jupyter notebook spam_detection.ipynb
    
 ## 🧪 Results
