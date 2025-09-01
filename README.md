@@ -17,10 +17,10 @@ The project walks through the full machine learning pipeline: from loading and p
 ---
 
 ## 📂 Project Structure
-├── spam_detection.ipynb # Main Jupyter Notebook
-├── spam.csv # Dataset (if included)
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+   ├── spam_detection.ipynb # Main Jupyter Notebook
+   ├── spam.csv # Dataset (if included)
+   ├── requirements.txt # Dependencies
+   └── README.md # Project documentation
 
 ---
 
